@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Operated by @fakoor for maharan related projects
+Operated by https://github.com/fakoor for maharan related projects
 
 <!--
 **maharanhub/maharanhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
